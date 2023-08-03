@@ -9,7 +9,7 @@
 使用前安装依赖
 
 ```
-pip intall -r requirements.txt
+pip install -r requirements.txt
 ```
 
 1.单个目标爆破loginId并测试ofslogin任意用户登录漏洞
